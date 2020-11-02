@@ -30,7 +30,7 @@ Projeto realizado no curso bonus do Bootcamp Goostack. Foi desenvolvida uma pág
 
 # :book: Links Interessantes
 
-- [CSS Flexbos](https://www.w3schools.com/css/css3_flexbox.asp)
+- [CSS Flexbox](https://www.w3schools.com/css/css3_flexbox.asp)
 - [Conceitos básicos de flexbox](https://developer.mozilla.org/pt-BR/docs/Web/CSS/CSS_Flexible_Box_Layout/Conceitos_Basicos_do_Flexbox)
 - [A Complete Guide to Flexbox](https://css-tricks.com/snippets/css/a-guide-to-flexbox/)
 - [Guia flexbox](https://origamid.com/projetos/flexbox-guia-completo/)
